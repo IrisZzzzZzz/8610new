@@ -1,0 +1,3 @@
+[submodule "LayoutEmbedding"]
+	path = LayoutEmbedding
+	url = https://github.com/jsb/LayoutEmbedding.git
